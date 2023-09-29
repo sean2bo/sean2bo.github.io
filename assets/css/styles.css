@@ -1,6 +1,7 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
 	background: gainsboro;
+	background-image: url(https://static.wikia.nocookie.net/jerma-lore/images/e/e3/JermaSus.jpg/revision/latest?cb=20201206225609);
 }
 /* anything in the navigation bar gets class nav */
 
