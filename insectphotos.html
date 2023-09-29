@@ -3,6 +3,11 @@
 		<link rel="stylesheet" href="style2.css">
 	</head>
 <body>
+	{% include navigation.html %}
+		{{ content }}
+		<a class="rss" href="/feed.xml" target="_blank">RSS</a>
+		{% include footer.html %}
+	
 	<h1>Some pictures of plants</h1>
 	<p>Open in a new tab (or a bigger monitor) for better quality.</p>
 <section class="layout">
