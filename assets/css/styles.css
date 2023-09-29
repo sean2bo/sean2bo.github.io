@@ -9,6 +9,9 @@ body {
 	font-family: sans-serif;
 	background: midnightblue;
 	color: white;
+	h1 {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
 	}
 
 /* the list of posts on the posts/blog page */
