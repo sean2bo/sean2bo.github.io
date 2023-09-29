@@ -1,13 +1,13 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
-	background: lime;
+	background: gainsboro;
 }
 /* anything in the navigation bar gets class nav */
 
 .nav {
 	font-family: sans-serif;
-	background: yellow;
-	color: aqua;
+	background: midnightblue;
+	color: white;
 	}
 
 /* the list of posts on the posts/blog page */
