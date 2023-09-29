@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<?xml-stylesheet type="sean2boblog" href="https://sean2bo.github.io/feed.xml" ?>
+<?xml-stylesheet type="rssstyle" href="https://sean2bo.github.io/feed.xml" ?>
 
 plugins:
 - jekyll-feed
