@@ -6,3 +6,5 @@
   link: /blog.html
 - name: bugs
   link: /bugs.html
+  - name: RSS
+  link: /feed.xml
