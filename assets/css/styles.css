@@ -15,6 +15,9 @@ body {
     border-radius: 1em;
     font-size: 1em;
     margin-bottom: 4em;
+    a:visited {
+        color: white;
+    }
 
     text-decoration: none;
     }
