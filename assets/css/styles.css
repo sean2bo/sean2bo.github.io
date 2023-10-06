@@ -8,14 +8,14 @@ body {
 .nav {
     font-family: sans-serif;
     background: midnightblue;
-    color: white;
+    color: white
     display: inline;
     margin: .5em;
     padding: 1.5em;
     border-radius: 1em;
     font-size: 1em;
     margin-bottom: 4em;
-    box-shadow: 3px 3px 3px gray;
+
     text-decoration: none;
     }
 
