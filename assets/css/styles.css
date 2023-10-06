@@ -6,7 +6,7 @@ body {
 /* anything in the navigation bar gets class nav */
 
 .nav {
-	display: block;
+	display: grid;
 	border-radius: 10px;
 	font-family: sans-serif;
 	background: midnightblue;
