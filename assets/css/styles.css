@@ -47,18 +47,17 @@ h1 {
 /* the list of posts on the posts/blog page */
 
 .postslist {
-	list-style: none;
-	display: block;
-	background: midnightblue;
-  font-size: 1em; /* 40px/16=2.5em */
-	 font-family: sans-serif;
-
-    color: white;
-    display: inline;
-    margin: 1.5em;
-    padding: .25em;
-    border-radius: 1em;
-    margin-bottom: 4em;
+list-style: none;
+display: block;
+background: midnightblue;
+font-size: 1em; 
+font-family: sans-serif;
+color: white;
+display: inline;
+margin: 1.5em;
+padding: .25em;
+border-radius: 1em;
+margin-bottom: 4em;
 
 }
 
