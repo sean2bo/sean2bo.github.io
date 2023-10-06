@@ -37,8 +37,8 @@ img {
 	  width: 100%;
 
 	    display: grid;
-	      grid-template-rows: repeat(auto-fit, 1fr);
-	grid-template-rows: 1fr min-content;
+	      grid-template-rows: repeat(auto-fit, 1fr min-content);
+
 	        grid-template-columns: repeat(3, 1fr);
 		  gap: 20px 20px;
 
