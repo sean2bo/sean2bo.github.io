@@ -4,6 +4,35 @@ title: Bug Photos
 ---
 
 <html>
+	body {
+	background: #cccfc1;
+	font-family: sans-serif;
+}
+
+.layout {
+	  width: 100%;
+
+	    display: grid;
+	      grid-template-rows: repeat(auto-fit, 1fr);
+	        grid-template-columns: repeat(3, 1fr);
+		  gap: 20px 20px;
+
+		    justify-items: center;
+		      align-items: center;
+	      }
+img {
+	MAX-WIDTH: 100%;
+	MAX-HEIGHT: 100%;
+}
+div {
+	display: block;
+	border-radius: 10px;
+	background: floralwhite;
+}
+p {
+	margin: 15px;
+	padding: 5px;
+}
 	<head>
 		<link rel="stylesheet" href="style2.css">
 	</head>
