@@ -56,6 +56,7 @@ color: white;
 
 }
 
+/* formatting of the posts themsevles */
 .posttext {
 	background: midnightblue;
 padding-bottom: 100%;
@@ -79,6 +80,7 @@ padding-bottom: 100%;
 margin-left: .25em;
 }
 
+/* bug picture formatting */
 div {
 	display: block;
 	border-radius: 10px;
