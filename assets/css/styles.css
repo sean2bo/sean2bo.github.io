@@ -72,24 +72,19 @@ padding-bottom: 30%;
 }
 
 .posttitle {
-	display: block;
-	background: midnightblue;
+	
   font-size: 1.25em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
     color: white;
-    margin: .5em;
-    border-radius: 1em;
-
+    
 }
 
 .bloo {
-	display: block;
-	background: midnightblue;
-  font-size: .5em; /* 40px/16=2.5em */
+	
+  font-size: 1em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
     color: white;
-    margin: .5em;
-    border-radius: 1em;
+   
 }
 	
 /* bug picture formatting */
