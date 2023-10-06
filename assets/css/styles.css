@@ -70,12 +70,10 @@ color: white;
 	display: block;
 	  font-size: 1.25em;
 	line-height: 1.6;
-	margin: .5em;
-	margin-top: 0em;
 padding-bottom: 30%;
 	padding-top:1em;
 	border-radius: 1em;
-	border-top-radius: 0em;
+	border-top-radius: 0;
 	
 }
 
