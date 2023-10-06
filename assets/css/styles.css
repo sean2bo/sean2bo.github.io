@@ -1,13 +1,8 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
-	    display: block;
-background: midnightblue;
-    box-shadow: 3px 3px 3px gray;
-    color: white;
-    font-family: sans-serif;
-    padding: 2em;
-    margin: 2em;
-	
+
+background: gainsboro;
+  
 }
 /* anything in the navigation bar gets class nav */
 
