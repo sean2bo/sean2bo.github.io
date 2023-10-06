@@ -113,16 +113,11 @@ div {
 		    justify-items: center;
 		      align-items: center;
 	      }
-img {
-	MAX-WIDTH: 100%;
-	MAX-HEIGHT: 100%;
-	border-top-left-radius: 10px;
-	broder-top-right-radius: 10px;
 
-}
 
 .gallery {
 	max-width:75%;
+	border-radius:10px;
 
 }
 
