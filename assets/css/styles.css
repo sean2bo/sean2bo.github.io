@@ -9,10 +9,7 @@ body {
 	font-family: sans-serif;
 	background: midnightblue;
 	color: white;
-	  width: 300px;
-  border: 15px midnightblue;
-  padding: 50px;
-  margin: 20px;
+	 
 	h1 {
   font-size: 2.5em; /* 40px/16=2.5em */
 }
