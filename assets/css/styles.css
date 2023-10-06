@@ -33,7 +33,7 @@ img {
 	MAX-HEIGHT: 100%;
 }
 .layout {
-	  width: 100%;
+	  width: 66%;
 
 	    display: grid;
 	      grid-template-rows: repeat(auto-fit, 1fr);
