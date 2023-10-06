@@ -28,11 +28,7 @@ div {
 	border-radius: 10px;
 	background: floralwhite;
 }
-img {
-	MAX-WIDTH: 100%;
-	MAX-HEIGHT: 100%;
-	max-width:100; height:auto;
-}
+
 .layout {
 	  width: 100%;
 
@@ -44,6 +40,11 @@ img {
 		    justify-items: center;
 		      align-items: center;
 	      }
+img {
+	MAX-WIDTH: 100%;
+	MAX-HEIGHT: 100%;
+	max-width:100; height:auto;
+}
 p {
 	margin: 15px;
 	padding: 5px;
