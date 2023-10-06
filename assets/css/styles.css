@@ -29,8 +29,8 @@ div {
 	background: floralwhite;
 }
 img {
-	MAX-WIDTH: 100%;
-	MAX-HEIGHT: 100%;
+	MAX-WIDTH: 33%;
+	MAX-HEIGHT: 33%;
 }
 .layout {
 	  width: 100%;
