@@ -30,9 +30,11 @@ color: white;
 
 	 
 h1 {
+	display: block;
+	background: midnightblue;
   font-size: 2.5em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
-    background: midnightblue;
+
     color: white;
     display: inline;
     margin: .5em;
