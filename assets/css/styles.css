@@ -73,7 +73,8 @@ color: white;
 padding-bottom: 30%;
 	padding-top:1em;
 	border-radius: 1em;
-	border-top-radius: 0;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
 	
 }
 
