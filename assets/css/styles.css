@@ -61,23 +61,18 @@ color: white;
 	background: midnightblue;
 padding-bottom: 100%;
 	border-radius: 1em;
-	  font-size: 1em;
-	font-family: sans-serif;
+	
 }
 
 .posttitle {
 	display: block;
 	background: midnightblue;
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
-
     color: white;
-
-    margin: 1em;
-    padding: .5em;
+    margin: .5em;
     border-radius: 1em;
-    margin-bottom: 1em;
-margin-left: .25em;
+
 }
 
 /* bug picture formatting */
