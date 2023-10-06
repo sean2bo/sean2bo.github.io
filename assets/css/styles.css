@@ -59,6 +59,7 @@ color: white;
 .posttext {
 	background: midnightblue;
 padding-bottom: 100%;
+	border-radius: 1em;
 }
 
 .posttitle {
