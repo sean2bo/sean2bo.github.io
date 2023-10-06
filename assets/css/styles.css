@@ -9,9 +9,7 @@ body {
 	font-family: sans-serif;
 	background: midnightblue;
 	color: white;
-	  display: block;
-  padding: 8px;
-  background-color: #dddddd;
+	  padding: 70px; 
 	 
 	h1 {
   font-size: 2.5em; /* 40px/16=2.5em */
