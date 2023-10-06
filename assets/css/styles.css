@@ -13,7 +13,7 @@ color: white;
 
 .nav {
     font-family: sans-serif;
-    background-color:#1E2019;
+    background-color:#07393C;
     color: white;
     display: inline;
     margin: .5em;
@@ -32,7 +32,7 @@ margin-top:.25em;
 	 
 h1 {
 	display: block;
-	background: midnightblue;
+	background-color:#07393C;
   font-size: 2.5em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
 
@@ -97,7 +97,7 @@ padding-bottom: 10%;
 div {
 	display: block;
 	border-radius: 10px;
-	background: midnightblue;
+	background-color:#07393C;
 	 
 }
 
