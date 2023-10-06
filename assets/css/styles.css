@@ -43,6 +43,7 @@ div {
 
 .layout {
 	  width: 100%;
+	 padding-top: 25px;
 
 	    display: grid;
 	      grid-template-rows: repeat(auto-fit, 1fr);
