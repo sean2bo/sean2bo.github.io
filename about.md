@@ -2,6 +2,6 @@
 layout: default
 title: about
 ---
-# about
+<div class=normaltitle># about</div>
 
-this is where your "about" info goes.
+<div class="normalbody">this is where your "about" info goes.</div>
