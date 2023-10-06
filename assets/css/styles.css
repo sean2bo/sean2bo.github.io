@@ -59,7 +59,10 @@ color: white;
 /* formatting of the posts themsevles */
 .posttext {
 	background: midnightblue;
-padding-bottom: 100%;
+	display: block;
+	  font-size: 1em;
+	margin: .5em;
+padding-bottom: 60%;
 	border-radius: 1em;
 	
 }
@@ -67,7 +70,7 @@ padding-bottom: 100%;
 .posttitle {
 	display: block;
 	background: midnightblue;
-  font-size: 1em; /* 40px/16=2.5em */
+  font-size: 1.25em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
     color: white;
     margin: .5em;
