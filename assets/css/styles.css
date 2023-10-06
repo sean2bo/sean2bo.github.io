@@ -61,11 +61,11 @@ color: white;
 
 /* formatting of the posts themsevles */
 .posttext {
-	background: midnightblue;
+	background: lightslategray;
 	display: block;
 	  font-size: 1.25em;
 	margin: .5em;
-padding-bottom: 60%;
+padding-bottom: 30%;
 	border-radius: 1em;
 	
 }
