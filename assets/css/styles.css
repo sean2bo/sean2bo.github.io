@@ -28,3 +28,7 @@ div {
 	border-radius: 10px;
 	background: floralwhite;
 }
+img {
+	MAX-WIDTH: 100%;
+	MAX-HEIGHT: 100%;
+}
