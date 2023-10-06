@@ -2,6 +2,12 @@
 body {
 
 background: gainsboro;
+	  display: block;
+    background: midnightblue;
+    color: white;
+    font-family: sans-serif;
+    padding: 2em;
+    margin: 2em;
   
 }
 /* anything in the navigation bar gets class nav */
@@ -23,14 +29,6 @@ background: gainsboro;
     text-decoration: none;
     }
 
-body {
-    display: block;
-    background: midnightblue;
-    color: white;
-    font-family: sans-serif;
-    padding: 2em;
-    margin: 2em;
-}
 	 
 h1 {
   font-size: 2.5em; /* 40px/16=2.5em */
