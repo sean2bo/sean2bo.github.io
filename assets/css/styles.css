@@ -60,6 +60,11 @@ color: white;
 }
 
 /* formatting of the posts themsevles */
+
+.post {
+	background: gainsboro;
+}
+
 .posttext {
 	background: lightslategray;
 	display: block;
