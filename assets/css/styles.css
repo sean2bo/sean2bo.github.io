@@ -31,6 +31,14 @@ color: white;
 	 
 h1 {
   font-size: 2.5em; /* 40px/16=2.5em */
+	 font-family: sans-serif;
+    background: midnightblue;
+    color: white;
+    display: inline;
+    margin: .5em;
+    padding: 1.5em;
+    border-radius: 1em;
+    margin-bottom: 4em;
 }
 	
 
