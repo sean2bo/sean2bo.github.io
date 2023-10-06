@@ -2,7 +2,7 @@ Not long ago I was having a discussion with my Mossbeasts (the magnanimous frien
 
 As I thought, a fun fact murmured up from some deep corner of my brain. White-Spotted Pufferfish can draw! These charming fish live across the Indo-Pacific, living in and around coral reefs, eating crustaceans and other fish. Another fun fact: they are the source of the infamous Japanese delicacy fugu. In most regards they are quite typical. But the males of the species have a very interesting courtship display. When they want to attract a mate, they draw highly intricate geometric symbols in the sand. These geometric circles can be up to 2 meters in diameter, and have an attracting effect on female pufferfish, although we’ll probably never know what exactly they find so alluring about geometry. These complex symbols communicate information to other members of the species, all without the need to “speak”.
 
-<img src="https://files.catbox.moe/xyim4y.jpg" alt="Pufferfish Sand Circles" max-width="60%" height="auto">
+<img src="https://files.catbox.moe/xyim4y.jpg" alt="Pufferfish Sand Circles" style="width:60%" style="height:auto">
 
 You can see where I’m going with this. This is a fish pictograph! Somewhat similar to what the very first writing systems evolved from. It isn’t an orthography yet, but it’s a start. 
 
