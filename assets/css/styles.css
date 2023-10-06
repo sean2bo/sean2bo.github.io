@@ -90,6 +90,7 @@ padding-bottom: 30%;
   font-size: 1em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
     color: white;
+	border-radius: 1em;
 	border-bottom-left-radius: 0em;
 	border-bottom-right-radius: 0em;
    
