@@ -2,6 +2,8 @@ Not long ago I was having a discussion with my friend Mossbeasts (the magnanimou
 
 As I thought, a fun fact murmured up from some deep corner of my brain. White-Spotted Pufferfish can draw! These charming fish live across the Indo-Pacific, living in and around coral reefs, eating crustaceans and other fish. Another fun fact: they are the source of the infamous Japanese delicacy fugu. In most regards they are quite typical. But the males of the species have a very interesting courtship display. When they want to attract a mate, they draw highly intricate geometric symbols in the sand. These geometric circles can be up to 2 meters in diameter, and have an attracting effect on female pufferfish, although we’ll probably never know what exactly they find so alluring about geometry. These complex symbols communicate information to other members of the species, all without the need to “speak”.
 
+<img src="https://files.catbox.moe/xyim4y.jpg" alt="Pufferfish Sand Circles" max-width="100%" height="auto">
+
 You can see where I’m going with this. This is a fish pictograph! Somewhat similar to what the very first writing systems evolved from. It isn’t an orthography yet, but it’s a start. 
 
 This is the first post in what I hope will be a longtime project of developing a pictography, or possibly even a full logography, based on this first pufferfish symbol. I don’t plan to develop a full conlang; these pufferfish will “speak” English, but I’m sure the deeper in I get the harder it will be to avoid. The next post in the series will be documenting my initial ideas for new symbols and grammar, as interpreted from my “base” symbol already drawn by the pufferfish. In the future this post will also likely act as an index, depending on how far I take the project.
