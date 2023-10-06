@@ -31,6 +31,7 @@ div {
 img {
 	MAX-WIDTH: 100%;
 	MAX-HEIGHT: 100%;
+	max-width:100; height:auto;
 }
 .layout {
 	  width: 100%;
