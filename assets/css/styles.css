@@ -79,11 +79,18 @@ padding-bottom: 30%;
 }
 
 .posttitle {
-	
-  font-size: 1.25em; /* 40px/16=2.5em */
+	display: block;
+	background: midnightblue;
+  font-size: 2.5em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
+
     color: white;
-	margin: 1em;
+
+    margin: .5em;
+    padding: .5em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+margin-left: .25em;
     
 }
 
