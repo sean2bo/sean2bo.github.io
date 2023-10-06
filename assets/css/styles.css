@@ -108,5 +108,6 @@ img {
 p {
 	margin: 15px;
 	padding: 5px;
+	align-items: stretch;
 }
 
