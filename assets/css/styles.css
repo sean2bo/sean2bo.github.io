@@ -90,8 +90,8 @@ padding-bottom: 30%;
   font-size: 1em; /* 40px/16=2.5em */
 	 font-family: sans-serif;
     color: white;
-margin-bottom: 0em;
-	border-bottom-radius: 0em;
+	border-bottom-left-radius: 0em;
+	border-bottom-right-radius: 0em;
    
 }
 	
