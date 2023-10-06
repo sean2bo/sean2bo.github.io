@@ -82,6 +82,16 @@ padding-bottom: 30%;
 
 }
 
+.bloo {
+	display: block;
+	background: midnightblue;
+  font-size: .5em; /* 40px/16=2.5em */
+	 font-family: sans-serif;
+    color: white;
+    margin: .5em;
+    border-radius: 1em;
+}
+	
 /* bug picture formatting */
 div {
 	display: block;
