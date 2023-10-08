@@ -85,9 +85,9 @@ padding-bottom: 10%;
 .bloo {
 	
   font-size: 1.5em; /* 40px/16=2.5em */
-	 font-family: sans-serif;
+	 font-family: DejaVu Sans Mono, monospace;
     color: white;
-	padding-bottom: 1em;
+	margin-bottom: 0px;
 	border-radius: 10px;
 	border-bottom-left-radius: 0em;
 	border-bottom-right-radius: 0em;
